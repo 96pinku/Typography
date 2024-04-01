@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    flex-direction: column;    
+    border-bottom: 2px solid black;
+    align-items: center;
+    font-family: Cambria;
+    
+}
+.data{
+    width: 30%;
+    margin: 10px 0 10px 0;
+}
+p{
+    margin: 15px 0 15px 0;
+    color:#837986;
+}
